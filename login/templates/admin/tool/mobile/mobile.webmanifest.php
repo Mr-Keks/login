@@ -1,0 +1,1 @@
+{"short_name":"\u0412\u041d\u0421 \u041d\u0423\u041b\u041f","prefer_related_applications":true,"icons":[{"sizes":"144x144","type":"image\/png","src":"http:\/\/vns.lpnu.ua\/admin\/tool\/mobile\/pix\/icon_144.png"}],"related_applications":[{"platform":"play","id":"com.moodle.moodlemobile"}]}
